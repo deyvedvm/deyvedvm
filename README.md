@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Zup Innovation
+🌱 I’m currently learning Quarkus
+
 <!--
 **deyvedvm/deyvedvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
