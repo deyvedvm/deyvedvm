@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 🔭 I’m currently working on Zup Innovation
+
 🌱 I’m currently learning Quarkus
 
 <!--
