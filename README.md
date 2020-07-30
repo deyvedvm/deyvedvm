@@ -1,4 +1,4 @@
-[![My Blog](https://github.con/deyvedvm/deyvedvm/raw/master/assets/duke-master-2020-globe.jpg)](https://www.deyve.dev/)
+[![My Blog](https://github.com/deyvedvm/deyvedvm/blob/master/assets/duke-master-2020-globe.jpg)](https://www.deyve.dev/)
 
 🔭 I’m currently working on Zup Innovation
 
