@@ -1,4 +1,4 @@
-### Hi 👋
+[![My Blog](https://github.con/deyvedvm/deyvedvm/raw/master/assets/duke-master-2020-globe.svg)](https://www.deyve.dev/)
 
 🔭 I’m currently working on Zup Innovation
 
