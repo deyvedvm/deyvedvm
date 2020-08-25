@@ -1,8 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvevieiramachado/)](https://www.linkedin.com/in/deyvevieiramachado/)
-
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/deyvedvm)](https://t.me/deyvedvm)
-
-
 [![My Blog](https://github.com/deyvedvm/deyvedvm/blob/master/assets/mcu-1-iron-man.jpg)](https://www.deyve.dev/)
 
 🔭 I’m currently working on Zup Innovation
