@@ -5,9 +5,7 @@
 [![My Blog](https://github.com/deyvedvm/deyvedvm/blob/master/assets/mcu-1-iron-man.jpg)](https://www.deyve.dev/)
 -->
 
-<!-- 🔭 I’m currently working on Riachuelo -->
-
-🌱 I’m currently learning Quarkus
+🔭 I’m currently working on Compass
 
 <!--
 **deyvedvm/deyvedvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
