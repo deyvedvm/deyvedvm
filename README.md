@@ -5,7 +5,7 @@
 [![My Blog](https://github.com/deyvedvm/deyvedvm/blob/master/assets/mcu-1-iron-man.jpg)](https://www.deyve.dev/)
 -->
 
-🔭 I’m currently working on Compass
+🔭 I’m currently working on NTT Data
 
 <!--
 **deyvedvm/deyvedvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
