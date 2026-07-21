@@ -71,13 +71,13 @@ I’m interested in remote opportunities with international teams, especially co
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=deyvedvm&show_icons=true&include_all_commits=true&count_private=true"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=deyvedvm&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
     alt="Deyve's GitHub statistics"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvedvm&layout=compact&langs_count=8"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=deyvedvm&layout=compact&langs_count=8&theme=transparent&hide_border=true"
     alt="Most used languages"
   />
 </p>
